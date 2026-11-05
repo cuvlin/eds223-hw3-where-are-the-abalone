@@ -37,9 +37,6 @@ Calvin Fu ([@cuvlin](https://github.com/cuvlin))
 
 ## References
 
-- NOAA Coral Reef Watch. *Daily Global 5km Satellite Sea Surface Temperature* [Data set].
-- GEBCO Compilation Group. *GEBCO Gridded Bathymetry Data* [Data set].
-- Flanders Marine Institute. *Marine Regions: Exclusive Economic Zones* [Data set]. https://www.marineregions.org/
 - EDS 223 Class Page (found [here](https://eds-223-geospatial.github.io/))
 
 ## Acknowledgements
